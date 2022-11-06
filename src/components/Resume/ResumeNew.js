@@ -26,6 +26,7 @@ function ResumeNew() {
           <Button
             variant="primary"
             target="_blank"
+            href={pdf}
             style={{ maxWidth: "250px" }}
           >
             <AiOutlineDownload />
